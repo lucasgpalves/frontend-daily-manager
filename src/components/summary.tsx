@@ -8,7 +8,7 @@ import { OutlineButton } from './ui/outline-button'
 
 export function Summary() {
   return (
-    <div className="py-10 max-w-[480px] px-5 mx-auto flex-col gap-6">
+    <div className="py-10 max-w-[480px] px-5 mx-auto flex flex-col gap-6">
       <div className="flex items-center justify-between">
         <div className="flex items-center gap-3">
           <InOrbitIcon />
